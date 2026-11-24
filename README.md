@@ -40,7 +40,7 @@ This project provided practical experience implementing a foundational AI search
 The following screenshot shows the A* algorithm finding
 and visualising a path from the starting cell to the goal.
 <img width="543" height="551" alt="image" src="https://github.com/user-attachments/assets/48ce4d39-5b98-41c5-935b-a1aae46bd876" />
-
+![A* Maze Solution](screenshots/Maze-Working.png)
 
 ## Acknowledgements
 
