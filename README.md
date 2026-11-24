@@ -34,3 +34,8 @@ As the algorithm explores the maze, it updates the path costs and records parent
 Potential improvements include experimenting with alternative priority queue implementations using `heapq`, comparing A* with Dijkstra's algorithm, and analysing performance across different maze sizes.
 
 This project provided practical experience implementing a foundational AI search algorithm while developing my understanding of the data structures and mathematical concepts behind intelligent pathfinding.
+
+Acknowledgements
+
+Developed as part of an AI internship, following the associated instructional material. The implementation and learning resources will be credited here.
+https://youtu.be/W9zSr9jnoqY?si=WVDhp2X25So7mcrR
