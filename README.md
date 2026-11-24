@@ -42,7 +42,7 @@ and visualising a path from the starting cell to the goal.
 <img width="543" height="551" alt="image" src="https://github.com/user-attachments/assets/48ce4d39-5b98-41c5-935b-a1aae46bd876" />
 
 
-Acknowledgements
+## Acknowledgements
 
-Developed as part of an AI internship, following the associated instructional material. The implementation and learning resources will be credited here.
+Developed as part of an AI internship, following the associated instructional material. The implementation and learning resources are credited here.
 https://youtu.be/W9zSr9jnoqY?si=WVDhp2X25So7mcrR
