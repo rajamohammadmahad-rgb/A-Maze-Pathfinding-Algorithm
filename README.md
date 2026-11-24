@@ -35,6 +35,13 @@ Potential improvements include experimenting with alternative priority queue imp
 
 This project provided practical experience implementing a foundational AI search algorithm while developing my understanding of the data structures and mathematical concepts behind intelligent pathfinding.
 
+## Demonstration
+
+The following screenshot shows the A* algorithm finding
+and visualising a path from the starting cell to the goal.
+<img width="543" height="551" alt="image" src="https://github.com/user-attachments/assets/48ce4d39-5b98-41c5-935b-a1aae46bd876" />
+
+
 Acknowledgements
 
 Developed as part of an AI internship, following the associated instructional material. The implementation and learning resources will be credited here.
